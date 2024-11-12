@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:github_clone/home_page.dart';
 
-void main(){
+void main() {
   return runApp(const GithubClone());
 }
 
